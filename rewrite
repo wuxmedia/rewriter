@@ -1,0 +1,3 @@
+Redirect 301 /articles.php?id=12       http://www.example.com/annoying/new/way.php
+Redirect 301 /articles.php?id=2       http://www.example.com/annoying/new/way3.php
+Redirect 301 /articles.php?id=14       http://www.example.com/annoying/another/way.php
